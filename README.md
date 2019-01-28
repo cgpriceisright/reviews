@@ -1,1 +1,3 @@
-# reviews
+I've been writing out the code in the way I believe it would look appropriate on a browser based on the tutorials and readings. For some reason, I've saved the index.html file and tried dragging it into the url box, but it shows a blank page despite the appropriate code appearing in the page source.
+
+All of the code has been written in sublime, then at one point i copy/pasted it into word just to make sure spelling was correct within p tags. I saved it as an index.html file from there and when i pasted it back into git, it showed a ton of word code which i didnt realize would show up since i didnt save it as a word doc (but as a html). I started over with a new repo.
